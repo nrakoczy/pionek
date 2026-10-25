@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <title>Pionek</title>
+  <circle cx="60" cy="60" r="58" fill="#FFF4E0"/>
+  <circle cx="60" cy="60" r="58" fill="none" stroke="#C8323C" stroke-width="3"/>
+  <circle cx="60" cy="34" r="15" fill="#C8323C"/>
+  <path d="M48 50 Q60 56 72 50 L78 82 Q60 88 42 82 Z" fill="#C8323C"/>
+  <rect x="34" y="82" width="52" height="12" rx="6" fill="#9E2530"/>
+  <circle cx="55" cy="29" r="4" fill="#FFFFFF" opacity="0.55"/>
+</svg>
