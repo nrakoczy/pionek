@@ -1,0 +1,79 @@
+TEKSTY DO STRONY GRY.HTML
+Skopiuj tekst stąd, a znaczniki HTML dopisz samodzielnie według instrukcji.
+Ten plik możesz kopiować: to zwykły tekst bez cudzysłowów drukarskich.
+
+Nagłówek strony:
+Nasze gry
+
+Akapit wstępny:
+Wybraliśmy kilka tytułów, od których najczęściej zaczynają nowi goście. Pozostałe gry pokaże Ci obsługa przy barze.
+
+--- Gra 1 ---
+Nazwa: Carcassonne
+Obrazek: images/carcassonne.jpg
+Opis obrazka (alt): Pudełko gry Carcassonne z rysunkiem zamku
+Opis: Budujecie wspólną krainę z kafelków i zajmujecie miasta, drogi oraz klasztory.
+gracze: 2-5
+czas gry: 40 minut
+wiek: od 7 lat
+
+--- Gra 2 ---
+Nazwa: Dixit
+Obrazek: images/dixit.jpg
+Opis obrazka (alt): Pudełko gry Dixit z trzema wachlarzowo ułożonymi kartami
+Opis: Opowiadasz o obrazku jednym zdaniem, a inni zgadują, którą kartę masz na myśli.
+gracze: 3-8
+czas gry: 30 minut
+wiek: od 8 lat
+
+--- Gra 3 ---
+Nazwa: Tajniacy
+Obrazek: images/tajniacy.jpg
+Opis obrazka (alt): Pudełko gry Tajniacy z siatką czerwonych i jasnych kart
+Opis: Dwie drużyny, jedno słowo podpowiedzi i siatka 25 kart. Kto pierwszy odnajdzie swoich agentów?
+gracze: 4-8
+czas gry: 15 minut
+wiek: od 10 lat
+
+--- Gra 4 ---
+Nazwa: Splendor
+Obrazek: images/splendor.jpg
+Opis obrazka (alt): Pudełko gry Splendor z dużym czerwonym klejnotem
+Opis: Zbierasz klejnoty, kupujesz kopalnie i przyciągasz arystokratów. Prosta, ale bardzo wciągająca.
+gracze: 2-4
+czas gry: 30 minut
+wiek: od 10 lat
+
+--- Gra 5 ---
+Nazwa: Pandemia
+Obrazek: images/pandemia.jpg
+Opis obrazka (alt): Pudełko gry Pandemia z globusem i czerwonymi ogniskami chorób
+Opis: Gra kooperacyjna: wszyscy razem walczycie z czterema chorobami, zanim opanują świat.
+gracze: 2-4
+czas gry: 45 minut
+wiek: od 8 lat
+
+
+TEKSTY DO STRONY CENNIK.HTML
+
+Nagłówek strony:
+Cennik
+
+Akapit wstępny:
+Płacisz za czas przy stoliku, a nie za gry: możesz zmieniać tytuły, ile chcesz.
+
+Tabela 1, podpis: Opłata za stolik, od osoby
+Czas gry                  | Poniedziałek-czwartek | Piątek-niedziela
+pierwsza godzina          | 10 zł                 | 12 zł
+druga i trzecia godzina   | 5 zł                  | 6 zł
+od czwartej godziny       | 0 zł                  | 0 zł
+
+Tabela 2, podpis: Napoje
+Napój              | Mały              | Duży
+espresso           | 9 zł (jeden rozmiar, komórka na dwie kolumny)
+cappuccino         | 12 zł             | 15 zł
+herbata w dzbanku  | 11 zł             | 15 zł
+lemoniada          | 10 zł             | 13 zł
+
+Akapit pod tabelami:
+Studenci z ważną legitymacją płacą za stolik o 20% mniej od poniedziałku do czwartku.
